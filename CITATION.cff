@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Robeer"
+  given-names: "Marcel"
+  orcid: "https://orcid.org/0000-0002-6430-9774"
+title: "Global Causal Analysis"
+url: "https://github.com/MarcelRobeer/GlobalCausalAnalysis"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Robeer"
+    given-names: "Marcel"
+    orcid: "https://orcid.org/0000-0002-6430-9774"
+  - family-names: "Bex"
+    given-names: "Floris"
+    orcid: "https://orcid.org/0000-0002-5699-9656"
+  - family-names: "Feelders"
+    given-names: "Ad"
+    orcid: "https://orcid.org/0000-0003-4525-1949"
+  - family-names: "Prakken"
+    given-names: "Henry"
+    orcid: "https://orcid.org/0000-0002-3431-7757"
+  year: 2023
+  title: "Explaining Model Behavior with Global Causal Analysis"
+  conference:
+    name: "The 1st World Conference on Explainable Artificial Intelligence (xAI 2023)"

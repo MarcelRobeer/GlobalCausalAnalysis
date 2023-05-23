@@ -1,0 +1,11 @@
+prettytable
+numpy
+pandas
+transformers
+datasets>=2.8.0
+spacy>=3.4
+emoji>=2.2.0
+textstat>=0.7.2
+PassivePy==0.2.21
+lazy-load>=0.8.2
+causal-learn>=0.1.3.3
